@@ -5,7 +5,7 @@ require 'celluloid/io/serial_port/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'celluloid-io-serialport'
-  spec.version       = Celluloid::Io::SerialPort::VERSION
+  spec.version       = Celluloid::IO::SerialPort::VERSION
   spec.authors       = ['Kaz Walker']
   spec.email         = ['kaz.walker@printtopeer.com']
   spec.description   = %q{Adds serial port support to Celluloid::IO}

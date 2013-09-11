@@ -1,4 +1,4 @@
-# Celluloid::Io::SerialPort
+# Celluloid::IO::SerialPort
 
 TODO: Write a gem description
 
