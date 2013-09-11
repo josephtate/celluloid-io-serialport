@@ -1,6 +1,6 @@
 # Celluloid::IO::SerialPort
 
-TODO: Write a gem description
+Evented serial port IO for Celluloid Actors via Celluloid::IO.
 
 ## Installation
 

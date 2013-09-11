@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Celluloid::IO::SerialPort::VERSION
   spec.authors       = ['Kaz Walker']
   spec.email         = ['kaz.walker@printtopeer.com']
-  spec.description   = %q{Adds serial port support to Celluloid::IO}
-  spec.summary       = %q{Evented serial port IO for Celluloid Actors.}
+  spec.description   = %q{Adds serial port support to Celluloid::IO.}
+  spec.summary       = %q{Evented serial port IO for Celluloid Actors via Celluloid::IO.}
   spec.homepage      = 'https://github.com/PrintToPeer/celluloid-io-serialport'
   spec.license       = 'MIT'
 
